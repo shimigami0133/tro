@@ -2,7 +2,7 @@ class test{
 
     public int o(int i,int j)
     {
-        return i*j;
+        return i/j;
     }
     public static void main(String args [])
     {
